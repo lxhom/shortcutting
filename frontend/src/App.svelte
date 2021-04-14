@@ -1,6 +1,6 @@
 <!--suppress HtmlUnknownTarget -->
 <script>
-  let smoothScroller = () => setInterval(() => {
+  let smoothScroller = () => setTimeout(() => {
     window.scrollBy({
       top: 10000,
       left: 0,
