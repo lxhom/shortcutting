@@ -1,0 +1,86 @@
+┌─────────┬─────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ (index) │          0          │                                                       1                                                       │
+├─────────┼─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│    0    │  'Ctrl+Alt+Shift'   │                                    "Move focus to Zoom's meeting controls"                                    │
+│    1    │        'Alt'        │                   'Turn on/off the option Always show meeting controls in General settings'                   │
+│    2    │       'Alt+S'       │ 'Launch share screen window and stop screen shareNote: Will only work when meeting control toolbar has focus' │
+│    3    │    'Alt+Shift+S'    │           'Start/stop new screen share Note: Will only work when meeting control toolbar has focus'           │
+│    4    │       'Alt+T'       │          'Pause or resume screen share Note: Will only work when meeting control toolbar has focus'           │
+│    5    │       'Alt+R'       │                                         'Start/stop local recording'                                          │
+│    6    │       'Alt+C'       │                                         'Start/stop cloud recording'                                          │
+│    7    │       'Alt+P'       │                                          'Pause or resume recording'                                          │
+│    8    │       'Alt+N'       │                                                'Switch camera'                                                │
+│    9    │       'Alt+F'       │                                          'Enter or exit full screen'                                          │
+│   10    │       'Alt+H'       │                                     'Display/hide in-meeting chat panel'                                      │
+│   11    │       'Alt+I'       │                                             'Open invite window'                                              │
+│   12    │       'Alt+Y'       │                                              'Raise/lower hand'                                               │
+│   13    │    'Alt+Shift+R'    │                                             'Gain remote control'                                             │
+│   14    │    'Alt+Shift+G'    │                                             'Stop remote control'                                             │
+│   15    │      'Ctrl+2'       │                                          'Read active speaker name'                                           │
+│   16    │ 'Ctrl+Alt+Shift+H'  │                                     'Show/hide floating meeting controls'                                     │
+│   17    │    'Alt+Shift+T'    │                                                 'Screenshot'                                                  │
+│   18    │      'Ctrl+W'       │                                         'Close current chat session'                                          │
+│   19    │      'Ctrl+T'       │                                          'Jump to chat with someone'                                          │
+│   20    │      'Ctrl+F'       │                                                   'Search'                                                    │
+│   21    │     'Ctrl+Tab'      │                                        'Move to the next tab (right)'                                         │
+│   22    │  'Ctrl+Shift+Tab'   │                                       'Move to the previous tab (left)'                                       │
+│   23    │   'Ctrl+Shift+P'    │                                       'Call highlighted phone number.'                                        │
+│   24    │   'Ctrl+Shift+A'    │                                            'Accept inbound call.'                                             │
+│   25    │   'Ctrl+Shift+E'    │                                              'End current call.'                                              │
+│   26    │   'Ctrl+Shift+D'    │                                            'Decline inbound call.'                                            │
+│   27    │   'Ctrl+Shift+M'    │                                              'Mute/unmute mic.'                                               │
+│   28    │   'Ctrl+Shift+H'    │                                              'Hold/unhold call.'                                              │
+│   29    │      'Ctrl+T'       │                                       'Switch from one tab to the next'                                       │
+│   30    │       'Space'       │                                                'Push to talk'                                                 │
+│   31    │      'Ctrl+P'       │                                'View previous 25 participants in gallery view'                                │
+│   32    │      'Ctrl+N'       │                                  'View next 25 participants in gallery view'                                  │
+│   33    │   'Ctrl+Shift+R'    │                                             'Gain remote control'                                             │
+│   34    │   'Ctrl+Shift+G'    │                                             'Stop remote control'                                             │
+│   35    │   'Ctrl+Shift+R'    │                                             'Gain remote control'                                             │
+│   36    │   'Ctrl+Shift+G'    │                                             'Stop remote control'                                             │
+│   37    │   'Ctrl+Shift+C'    │                                       'Call highlighted phone number.'                                        │
+│   38    │   'Ctrl+Shift+A'    │                                            'Accept inbound call.'                                             │
+│   39    │   'Ctrl+Shift+D'    │                                            'Decline inbound call.'                                            │
+│   40    │   'Ctrl+Shift+E'    │                                              'End current call.'                                              │
+│   41    │   'Ctrl+Shift+M'    │                                              'Mute/unmute mic.'                                               │
+│   42    │   'Ctrl+Shift+H'    │                                              'Hold/unhold call.'                                              │
+│   43    │        'Alt'        │                     'Toggle the Always show meeting controls option in General settings'                      │
+│   44    │       'Alt+V'       │                                              'Start/stop video'                                               │
+│   45    │       'Alt+A'       │                                            'Mute/unmute my audio'                                             │
+│   46    │       'Alt+M'       │                 'Mute/unmute audio for everyone except the host (available only to the host)'                 │
+│   47    │       'Alt+S'       │                                          'Start/stop screen sharing'                                          │
+│   48    │       'Alt+T'       │                                         'Pause/resume screen sharing'                                         │
+│   49    │       'Alt+R'       │                                         'Start/stop local recording'                                          │
+│   50    │       'Alt+C'       │                                         'Start/stop cloud recording'                                          │
+│   51    │       'Alt+P'       │                                           'Pause/resume recording'                                            │
+│   52    │       'Alt+N'       │                                                'Switch camera'                                                │
+│   53    │        'Esc'        │                                         'Enter/exit full screen mode'                                         │
+│   54    │       'Alt+U'       │                                        'Show/hide participants panel'                                         │
+│   55    │       'Alt+I'       │                                           'Open the invite window'                                            │
+│   56    │       'Alt+Y'       │                                              'Raise/lower hand'                                               │
+│   57    │    'Alt+Shift+R'    │                                            'Begin remote control'                                             │
+│   58    │    'Alt+Shift+G'    │                                      'Revoke remote control permission'                                       │
+│   59    │    'Alt+Shift+T'    │                                                 'Screenshot'                                                  │
+│   60    │      'Ctrl+W'       │                                         'Close current chat session'                                          │
+│   61    │   'Ctrl+Shift+A'    │                                            'Accept inbound call.'                                             │
+│   62    │   'Ctrl+Shift+E'    │                                              'End current call.'                                              │
+│   63    │   'Ctrl+Shift+D'    │                                            'Decline inbound call.'                                            │
+│   64    │   'Ctrl+Shift+M'    │                                              'Mute/unmute mic.'                                               │
+│   65    │   'Ctrl+Shift+H'    │                                              'Hold/unhold call.'                                              │
+│   66    │      'Ctrl+Z'       │                                                    'Undo'                                                     │
+│   67    │      'Ctrl+W'       │                                                    'Close'                                                    │
+│   68    │      'Ctrl+A'       │                                                 'Select all'                                                  │
+│   69    │      'Alt+Tab'      │                                                 'Switch apps'                                                 │
+│   70    │       'Win+D'       │                                          'Show or hide the desktop'                                           │
+│   71    │      'Win+Tab'      │                                             'Open the Task view'                                              │
+│   72    │ 'Tab and Shift+Tab' │                                  'Move backward and forward through options'                                  │
+│   73    │     'Ctrl+Esc'      │                                             'Open the Start menu'                                             │
+│   74    │       'Win+L'       │                                             'Lock your computer'                                              │
+│   75    │       'Win+I'       │                                                'Open Settings'                                                │
+│   76    │       'Win+S'       │                                               'Search Windows'                                                │
+│   77    │    'Win+PrtScn'     │                                              'Save a screenshot'                                              │
+│   78    │  'Ctrl+Shift+Esc'   │                                            'Open the Task Manager'                                            │
+│   79    │       'Win+C'       │                                          'Start talking to Cortana'                                           │
+│   80    │    'Win+Ctrl+D'     │                                          'Add a new virtual desktop'                                          │
+│   81    │       'Win+X'       │                                            'Open the hidden menu'                                             │
+└─────────┴─────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
