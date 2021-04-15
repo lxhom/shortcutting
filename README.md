@@ -1,6 +1,8 @@
 # shortcutting
 ## A website that shows shortcuts. Random shortcuts scraped from random websites.
 
+### [The Page in Action](https://lxhom.github.io/shortcutting)
+
 [This page](/frontend) connects to my [Heroku](https://heroku.com) [backend](/heroku_backend). It does the following things:
 - Scrape Google results for "keyboard shortcuts" with apify
 - Download 10 search results
