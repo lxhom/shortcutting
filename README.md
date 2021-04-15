@@ -1,10 +1,10 @@
 # shortcutting
 ## A website that shows shortcuts. Random shortcuts scraped from random websites.
 
-This page connects to my Heroku backend. It does the following things:
+[This page](/frontend) connects to my [Heroku](https://heroku.com) [backend](/heroku_backend). It does the following things:
 - Scrape Google results for "keyboard shortcuts" with apify
 - Download 10 search results
 - Parse the results with a lot of Regular Expressions and Javascript
-- Send the results as JSON as a REST API (you can see the raw data [here](https://shortcutting.herokuapp.com/sync))
+- Send the results as JSON with a REST API (you can see the raw data [here](https://shortcutting.herokuapp.com/sync))
 
-This page then gets the results from the REST API by using the Fetch API, and then it uses Svelte and JS/CSS/HTML to display it as a table. 
+The page then gets the results from the REST API by using the Fetch API, and then it uses [Svelte](https://svelte.dev) and JS/CSS/HTML to display it as a table. 
